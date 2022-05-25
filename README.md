@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feiraita
-- 🌱 I’m currently mainly learning React
+- 🌱 I’m currently learning React
 
 <!---
 feiraita/feiraita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
